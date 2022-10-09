@@ -24,6 +24,5 @@ Contact me:
   • Discord: Zorka#6286
   
   • Slack: @jslage
-  
   • LinkedIn: https://www.linkedin.com/in/jackslage/
   
