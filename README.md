@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Student at ASU, Business Data Analytics '24
+Contact me:
+  • Email: jhslage@gmail.com OR zorka.ain@gmail.com
+  • Discord: Zorka#6286
+  • Slack: @jslage
+  • LinkedIn: https://www.linkedin.com/in/jackslage/
+  
