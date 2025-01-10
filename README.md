@@ -1,31 +1,15 @@
+GT Analytics Grad Student. Data Magician. Jack of all trades. 
 
-<!--
-**ZorkaA/ZorkaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact:
+Email: `zorka.ain@gmail.com` <br>
+Discord: `.zorka.` <br>
+Session: `05e0a420d665aed0c48dab3dd2bedd6258b0afa639df595b292d7c115f9180a160` <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Student at Arizona State University, Business Data Analytics '24
-### Aircraft developer in FlightGear
-
-
-
-Contact me:
-
-  • Email: jhslage@gmail.com OR zorka.ain@gmail.com
-  
-  • Discord: Zorka#6286
-  
-  • Slack: @jslage
-  
-  • LinkedIn: https://www.linkedin.com/in/jackslage/
-  
+### Consider donating to keep me sane (anything helps):
+Dogecoin: `DKJdBRniDqXt7VXsi69uGxk4QoaEB3K23F` <br>
+Pepecoin (PEP):  `PeUdWADtK63XQvK8Zty4S3y1PaAvzxSXRF` <br>
+ETH: `0xc67f5e0BD24362e759949e2f45d7a730f140D53c` <br>
+BTC: `bc1q5cuf9a45levpg9frsrca2u4lxn3sw4z0z42h7f` <br>
+Solana: `ABvKapXNv9XGqcHoHt3xstsLhMnGVQq7fZ3fCorj2TAF` <br>
+Polygon: `0xc67f5e0BD24362e759949e2f45d7a730f140D53c` <br>
+Base: `0xc67f5e0BD24362e759949e2f45d7a730f140D53c` <br>
