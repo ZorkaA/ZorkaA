@@ -1,4 +1,4 @@
-GT Analytics Grad Student. Data Magician. Jack of all trades. 
+Data Magician. Jack of all trades. 
 
 ### Contact:
 Email: `zorka.ain@gmail.com` <br>
